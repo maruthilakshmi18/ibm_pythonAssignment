@@ -1,0 +1,3 @@
+data1 -smoke dataa
+data2 -regression data
+data3 -sanity data
